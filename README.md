@@ -10,4 +10,4 @@
 - CSS
 - Javascript
 
-A responsive website created with as part of a course at [Practicum100](https://practicum.yandex.com/web/)
+A responsive website created as part of a course at [Practicum100](https://practicum.yandex.com/web/)
